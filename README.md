@@ -1,4 +1,4 @@
-# unsplash-app
+# Image-Search-React-App
 
 An application prepared for searching photos.
 
